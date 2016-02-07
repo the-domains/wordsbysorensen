@@ -2,6 +2,7 @@ name: WordsbySorensen
 favicon: null
 layout_spectrum: 0.6582980202510953
 typography_spectrum: 0.2842168412171304
+title: Words by Sørensen
 cta:
   domain: null
   bucket: null
