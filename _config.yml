@@ -1,4 +1,4 @@
-name: WordsbySorensen
+name: Words by Sørensen
 favicon: null
 layout_spectrum: 0.6582980202510953
 typography_spectrum: 0.2842168412171304
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.5566278640180826
-  lightness: 0.2945699072442949
-  saturation: 0.5708538612816483
+    - '#ffffff'
+    - '#000000'
+    - '#4e5662'
+    - '#cfd6dd'
+    - '#252a2e'
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.4375
   rhythmicContrast: 0.16128307511098683
 purpose: []
